@@ -1,6 +1,6 @@
 Name:		texlive-luatruthtable
-Version:	64508
-Release:	2
+Version:	68893
+Release:	1
 Summary:	Generate truth tables of boolean values in LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luatruthtable
