@@ -3,7 +3,7 @@ Version:	68893
 Release:	1
 Summary:	Generate truth tables of boolean values in LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luatruthtable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luatruthtable
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luatruthtable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luatruthtable.doc.r%{version}.tar.xz
